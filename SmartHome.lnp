@@ -1,0 +1,5 @@
+--cpu Cortex-M4.fp "startup_stm32f4xx.o" "system_stm32f4xx.o" "main.o" 
+--strict --scatter "SmartHome.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\SmartHome.map" -o SmartHome.axf

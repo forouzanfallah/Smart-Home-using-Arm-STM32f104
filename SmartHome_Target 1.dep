@@ -1,0 +1,18 @@
+Dependencies for Project 'SmartHome', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f4xx.s)(0x50878AE4)(--cpu Cortex-M4.fp -g --apcs=interwork -I F:\app\keil\ARM\RV31\INC -I F:\app\keil\ARM\CMSIS\Include -I F:\app\keil\ARM\Inc\ST\STM32F4xx --list "startup_stm32f4xx.lst" --xref -o "startup_stm32f4xx.o" --depend "startup_stm32f4xx.d")
+F (.\system_stm32f4xx.c)(0x50FF6E52)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I F:\app\keil\ARM\RV31\INC -I F:\app\keil\ARM\CMSIS\Include -I F:\app\keil\ARM\Inc\ST\STM32F4xx -o "system_stm32f4xx.o" --omf_browse "system_stm32f4xx.crf" --depend "system_stm32f4xx.d")
+I (F:\app\keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x50FF7C62)
+I (F:\app\keil\ARM\CMSIS\Include\core_cm4.h)(0x50879AC6)
+I (F:\app\keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9A098)
+I (F:\app\keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50879AC6)
+I (F:\app\keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50879AC6)
+I (F:\app\keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x50879AC6)
+I (F:\app\keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x50FF7C62)
+F (.\main.c)(0x5A683F80)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I F:\app\keil\ARM\RV31\INC -I F:\app\keil\ARM\CMSIS\Include -I F:\app\keil\ARM\Inc\ST\STM32F4xx -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (F:\app\keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x50FF7C62)
+I (F:\app\keil\ARM\CMSIS\Include\core_cm4.h)(0x50879AC6)
+I (F:\app\keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9A098)
+I (F:\app\keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50879AC6)
+I (F:\app\keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50879AC6)
+I (F:\app\keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x50879AC6)
+I (F:\app\keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x50FF7C62)

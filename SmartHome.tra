@@ -1,0 +1,22 @@
+*** Creating Trace Output File 'SmartHome.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_stm32f4xx.o"'
+### List of Objects: adding '"system_stm32f4xx.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp "startup_stm32f4xx.o" "system_stm32f4xx.o" "main.o" 
+--strict --scatter "SmartHome.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\SmartHome.map" -o SmartHome.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'SmartHome.axf'
+### ADS-LD Command File: 'SmartHome.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'SmartHome.lnp', Handle=0x000010CC
+### Writing '.lnp' file
+### ADS-LD Command file 'SmartHome.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
